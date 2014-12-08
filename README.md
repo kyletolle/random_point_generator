@@ -58,3 +58,7 @@ The default Rake task is to run the specs.
 rake
 ```
 
+## License
+
+MIT
+
