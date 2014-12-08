@@ -4,6 +4,12 @@ This gem is for generating random map points (latitude, longitude pair).
 
 A bounding box can be given, to restrict points to that area.
 
+## Install
+
+```
+gem install random_point_generator
+```
+
 ## Usage
 
 ### Without a Bounding Box
