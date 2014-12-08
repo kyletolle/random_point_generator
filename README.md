@@ -42,3 +42,19 @@ nyc_point_generator.random_point
 # => [40.637508713191345, -73.95164169297031]
 ```
 
+## Development
+
+### Install
+
+```
+gem install --dev color_divider
+```
+
+### Specs
+
+The default Rake task is to run the specs.
+
+```
+rake
+```
+
