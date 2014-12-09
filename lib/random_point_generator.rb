@@ -1,5 +1,8 @@
 class RandomPointGenerator
-  def initialize(sw_point = [-90.0, -180.0], ne_point = [90.0, 180.0])
+  def initialize(sw_point = nil, ne_point = nil)
+    sw_point ||= [-90.0, -180.0]
+    ne_point ||= [90.0, 180.0]
+
     @sw_point = sw_point
     @ne_point = ne_point
   end
