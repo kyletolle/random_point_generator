@@ -1,4 +1,4 @@
-# RandomPointGenerator
+# random_point_generator
 
 This gem is for generating random map points (latitude, longitude pair).
 
