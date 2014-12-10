@@ -47,7 +47,7 @@ nyc_point_generator.random_point
 ### Install
 
 ```
-gem install --dev color_divider
+gem install --dev random_point_generator
 ```
 
 ### Specs
